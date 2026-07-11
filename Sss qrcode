@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Super Simple Songs QR</title>
+</head>
+
+<body>
+<h1>Super Simple Songs</h1>
+
+<p>請選擇歌曲：</p>
+
+<a href="https://www.youtube.com/@SuperSimpleSongs">🎵 Super Simple Songs</a>
+
+</body>
+</html>
